@@ -90,7 +90,7 @@ Mozilla offered me an example of how change can be achieved by empowering others
 The many success stories born in this community give me the confidence that cultural change driven by grassroots efforts is not 
 only possible, but is sustainable. With PREreview, I want to ensure community contributions continue to be at the core of our mission, 
 because solutions created in the vacuum without targeted communities at heart might move fast, but rarely go far. Our fantastic advisory 
-board, and a partnership with the organization Future of Research (futureofresearch.org) will help us craft our focus on ECRs and guide 
+board, and a partnership with the organization [Future of Research](futureofresearch.org) will help us craft our focus on ECRs and guide 
 us in the process of securing funding.
 
 ## What research fields are you in? (200 char)
@@ -116,6 +116,6 @@ with Glynis Mattheisen we are creating CoC templates for research laboratories.
 
 ## What project in the field do you find most inspiring to further science and the web? (350 char)
 
-I am really inspired by the Whose Knowledge? (whoseknowledge.org) and OCSDNet (ocsdnet.org) initiatives because they challenge the 
+I am really inspired by the [Whose Knowledge?](whoseknowledge.org) and [OCSDNet](ocsdnet.org) initiatives because they challenge the 
 meaning of open science in the context of global development, encouraging critical conversations and implementing solutions that meet 
 the needs of communities that are too often forgotten by the global North.
