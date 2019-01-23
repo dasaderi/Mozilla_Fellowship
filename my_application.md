@@ -44,8 +44,7 @@ Born from an idea sparked during a Mozilla miniWOW, PREreview has grown entwined
 This fellowship would allow me to focus my time and effort to move this project forward in the context of a global, interdisciplinary 
 community with teamwork and collaboration at heart.
 
-## What do you consider to be the biggest threat to the open web in your area of expertise? Why? In what way would the Internet
-or the world be different if this threat were mitigated? (1000 char)
+## What do you consider to be the biggest threat to the open web in your area of expertise? Why? In what way would the Internet or the world be different if this threat were mitigated? (1000 char)
 
 I believe the biggest threat to the open web and knowledge is consolidation, where a few powerful entities are able to influence what 
 everyone knows and discovers. Even though the Internet has enabled an unprecedented democratization of knowledge, it is mostly built 
