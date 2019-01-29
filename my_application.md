@@ -25,16 +25,19 @@ but also preprint authors, who have the opportunity to incorporate comments in t
 benefits, as the released content adds to the value of the scientific discussion and opens new avenues for collaboration.
 I want PREreview to be more than a space for publishing preprint reviews. I want to develop PREreview as a tool to drive broader and 
 much needed cultural change in the ways science is evaluated and disseminated. 
+
 In its most common form, peer review is conducted immediately prior to publication by a handful of unpaid and anonymous reviewers. 
 They decide the soundness of the science in private settings, with waiting periods from submission to publication of six months or more. 
 Reviewers are selected opaquely, by private entities, and through personal connections. ECRs, women, and scientists from underrepresented 
 communities are disadvantaged during both the publication and review process. They are neither asked to contribute to peer review, nor is 
 their work evaluated by inclusive and diverse reviewers. Finally, and paradoxically, while peer review is an important component of being 
 a scientist, very few of us receive any training in it.
+
 I envision PREreview as a hub to support and nurture the growth of a community that openly exchanges timely, constructive feedback on 
 emerging scientific outputs. With the help and support of the Mozilla community, I plan to develop an interactive training program in 
 peer review modeled after the Mozilla Open Leadership program – i.e., pairing mentors with mentees, running monthly community calls, and 
 establishing digital journal clubs that engage and train ECRs across institutions. 
+
 Part of the focus of this fellowship will be coordinating the development of a new open source website architecture to maximize PREreview
 interoperability with existing platforms and tools (e.g., eLife, PLOS, bioRxiv, Hypothesis, Altmetric), and to establish a user experience 
 that is in line with our community goals. For example, training and contributions will be automatically added to researchers’ ORCiD 
@@ -75,8 +78,8 @@ experts and enthusiasts of all levels (including students!), moved from basic sy
 focus on neuroscience data familiar to our learners. We shared our lectures and data openly on [GitHub](github.com/dasaderi/python_neurobootcamp), 
 and used innovative tools, such as JupyterHub, to facilitate interactiveness with the materials. The feedback was overwhelmingly positive, 
 with 90% or more of the students reporting they will likely apply what learned to their own work and would like to follow up with a more 
-in-depth class. We are now writing a grant in collaboration the University of Oregon to offer the course to a broader community of 
-neuroscientists.
+in-depth class. 
+
 Another fantastic experience was contributing to the organization of [Science Hack Day in Portland](portland.sciencehackday.org) 
 in 2016 and 2017. Science Hack Day is a event that brings together science enthusiasts from different fields to build 
 useful, creative, or simply fun things. It was inspiring to see participants of different ages and backgrounds work together to 
@@ -101,7 +104,8 @@ processed in the dynamic brain.
 ## Describe your current research team. (200 char)
 The David lab is a team of neuroscientists – 4 students, 3 postdocs, 3 research assistants – who work together on projects at the 
 intersection of basic research, modeling, and open source software. 
-Describe to us how open science advances your research. (700 char) 
+
+## Describe to us how open science advances your research. (700 char) 
 Sharing protocols, datasets, source code and analyses together with the manuscript makes it so that the research output is more complete and reproducible. While I have not yet shared these myself, I plan to do so to accompany the publications that will come from my PhD work. Reading preprints and reviewing them at journal club have allowed me to not only learn about cutting edge research before everyone else, but also to make productive connections with scientists in my field – which in one case even led to a possible job interview for a postdoctoral position.
 
 ## List and explain briefly any projects you’re leading related to open science. (700 char)
